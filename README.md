@@ -10,8 +10,7 @@ A beautiful, AI-powered **emotion detection** web app that analyzes text and pre
 ---
 
 ## 🚀 Live Demo
-
-> Coming soon — or run locally in 30 seconds (see below).
+https://emotion-detector-nlp-sentiment-analysis-jtugeybegoupt2fxfckdyy.streamlit.app/
 
 ---
 
@@ -69,8 +68,7 @@ emotion-detector/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/emotion-detector.git
-cd emotion-detector
+git clone https://github.com/ikrmrind/Emotion-Detector-NLP-Sentiment-Analysis.git
 ```
 
 ### 2. Install dependencies
